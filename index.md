@@ -1,3 +1,7 @@
+---
+title: Matthijs Halvemaan - Student Computer Science
+---
+
 # Matthijs Halvemaan
 
 ## About me
